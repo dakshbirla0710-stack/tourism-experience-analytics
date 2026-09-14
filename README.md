@@ -280,10 +280,3 @@ tourism-experience-analytics/
 ├── item_similarity_matrix.pkl
 ├── attraction_info.pkl
 └── README.md
-
-## Author
-
-**Daksh Birla**
-
-Tourism Experience Analytics  
-Machine Learning Capstone Project
